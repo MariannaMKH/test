@@ -1,0 +1,17 @@
+D:\traials\Test\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\traials\Test\BLL\bin\Debug\net6.0\BLL.dll
+D:\traials\Test\BLL\bin\Debug\net6.0\BLL.pdb
+D:\traials\Test\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\traials\Test\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\traials\Test\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\traials\Test\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\traials\Test\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\traials\Test\BLL\obj\Debug\net6.0\BLL.dll
+D:\traials\Test\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\traials\Test\BLL\obj\Debug\net6.0\BLL.pdb
+D:\traials\Test\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\traials\Test\BLL\bin\Debug\net6.0\DAL.dll
+D:\traials\Test\BLL\bin\Debug\net6.0\DTO.dll
+D:\traials\Test\BLL\bin\Debug\net6.0\DAL.pdb
+D:\traials\Test\BLL\bin\Debug\net6.0\DTO.pdb
+D:\traials\Test\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete

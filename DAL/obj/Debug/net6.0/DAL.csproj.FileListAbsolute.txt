@@ -1,0 +1,15 @@
+D:\traials\Test\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\traials\Test\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\traials\Test\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\traials\Test\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\traials\Test\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\traials\Test\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\traials\Test\DAL\bin\Debug\net6.0\DAL.dll
+D:\traials\Test\DAL\bin\Debug\net6.0\DAL.pdb
+D:\traials\Test\DAL\bin\Debug\net6.0\DTO.dll
+D:\traials\Test\DAL\bin\Debug\net6.0\DTO.pdb
+D:\traials\Test\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\traials\Test\DAL\obj\Debug\net6.0\DAL.dll
+D:\traials\Test\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\traials\Test\DAL\obj\Debug\net6.0\DAL.pdb
+D:\traials\Test\DAL\obj\Debug\net6.0\ref\DAL.dll
